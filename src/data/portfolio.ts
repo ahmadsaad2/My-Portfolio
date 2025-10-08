@@ -66,7 +66,7 @@ export const projects: Project[] = [
       "CSS",
       "Jasper Reports"
     ],
-    image: "https://private-user-images.githubusercontent.com/137313539/297651221-c640420b-5271-4081-9880-73a5e0dbedbe.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk4NjExNzAsIm5iZiI6MTc1OTg2MDg3MCwicGF0aCI6Ii8xMzczMTM1MzkvMjk3NjUxMjIxLWM2NDA0MjBiLTUyNzEtNDA4MS05ODgwLTczYTVlMGRiZWRiZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwN1QxODE0MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMWRhM2M3NmEzZjBiNWVlYmRmNmI4NDk3NjRkODZhMDk5ZmExNzBhZjIyZDQ0OGVlZjcxMzMxY2VkMmMzNDJlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.65bqOU4wdB4Ldu3kLfw4k5JGG95zIeP-QN-lX-381xs",
+    image: "https://api.imghippo.com/files/QHbQ7675hgE.png",
     githubUrl: "https://github.com/ahmadsaad2/Java-FX-Project-Restaurant-System"
   },
   {
@@ -218,7 +218,7 @@ export const projects: Project[] = [
       "A small web project that checks whether the entered text or number is a palindrome. Built with HTML, CSS, and JavaScript, the app ignores punctuation, spaces, and letter case to provide accurate results. This project demonstrates DOM manipulation, string handling, and basic frontend logic.",
     techStack: ["HTML", "CSS", "JavaScript", "DOM Manipulation"],
     image:
-      "https://private-user-images.githubusercontent.com/137313539/306743678-582055bf-1e60-4bbf-ad8e-621a877f5610.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk4NjE1MTMsIm5iZiI6MTc1OTg2MTIxMywicGF0aCI6Ii8xMzczMTM1MzkvMzA2NzQzNjc4LTU4MjA1NWJmLTFlNjAtNGJiZi1hZDhlLTYyMWE4NzdmNTYxMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwN1QxODIwMTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNTcwMjQ2MzVlNTE5Y2YyMjNkMTU4MjVkM2IwNDJhZTNkYzNjNTA5MTcxNDQwODU0ZmEwYmQ0MzVjYzRmNmY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cqYFtWG8d6S3rVq3jERi9MTsAautmvIBgg79VthrOCM",
+      "https://api.imghippo.com/files/bEm1918AeU.png",
     githubUrl: "https://github.com/ahmadsaad2/Palindrome-Checker-js-1"
   },
 
@@ -244,7 +244,7 @@ export const projects: Project[] = [
     description:
       "Developed a Python GUI app that allows users to apply various image filters like grayscale, edge detection, and adaptive thresholding. Built with Tkinter and OpenCV, it helps visualize effects such as Prewitt, Laplacian, and Gaussian filters in real time. The tool also supports user-defined filters and image saving options.",
     techStack: ["Python", "Tkinter", "NumPy", "OpenCV"],
-    image: "https://private-user-images.githubusercontent.com/137313539/293092481-b3a6d8e5-25ba-4abb-91e1-1bd1bcba6552.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk4NjI0MTEsIm5iZiI6MTc1OTg2MjExMSwicGF0aCI6Ii8xMzczMTM1MzkvMjkzMDkyNDgxLWIzYTZkOGU1LTI1YmEtNGFiYi05MWUxLTFiZDFiY2JhNjU1Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwN1QxODM1MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MzRkNGQxYzg2NWNlNzFjNDFhNjJiODllOTU4ZjM5NDNlZGY5ODc4NjgwYTY1NjVmNWM4ZTI3YjMwMzIyOGM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AMxmzIml59B9qbW0VsqBmKDP_vVc7guaUAJNaTTZBrc",
+    image: "https://api.imghippo.com/files/CxNR4396Wc.png",
     githubUrl: "https://github.com/ahmadsaad2/Image-processing-techniques"
   },
 
@@ -256,7 +256,7 @@ export const projects: Project[] = [
     description:
       "A fun web-based Snake game where the player controls a snake to eat food and grow longer. Built with HTML, CSS, and JavaScript, featuring responsive design and score tracking using local storage. Simple controls with arrow keys and smooth gameplay logic for all screen sizes.",
     techStack: ["HTML", "CSS", "JavaScript", "Local Storage"],
-    image: "https://private-user-images.githubusercontent.com/137313539/306591007-578badc8-4744-41bf-89dd-18a1811ac744.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk4NjI0MzcsIm5iZiI6MTc1OTg2MjEzNywicGF0aCI6Ii8xMzczMTM1MzkvMzA2NTkxMDA3LTU3OGJhZGM4LTQ3NDQtNDFiZi04OWRkLTE4YTE4MTFhYzc0NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwN1QxODM1MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYzhjMWFlNzkzNTQ4MWE0OGU0OGI2MTBkYWM4MDVlNmZiNDkwYTNlZDcwNzg5MDQxOTg4Y2Q1MTk4OWMxYTBkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.qW1vL7-G6cefMYMvfb0aWzhuCbat1akYBncRI6ID1BQ",
+    image: "https://api.imghippo.com/files/uzA2588bU.png",
     githubUrl: "https://github.com/ahmadsaad2/Snake-game-Js-2"
   }
 ];
