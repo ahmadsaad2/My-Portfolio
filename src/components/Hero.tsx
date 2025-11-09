@@ -10,7 +10,7 @@ const Hero: React.FC = () => {
           <div className="mb-8">
             <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 p-1">
               <img
-                src="https://media.licdn.com/dms/image/v2/D4D03AQGWt_SGPIk_4w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715238668702?e=1761177600&v=beta&t=N0Js3DT9SmDUkQaUOjrcnup4R8p_OpmnKzN60hq0z_Q"
+                src="https://i.ibb.co/qF9h6Fy9/25.jpg"
                 alt="Ahmad Saad"
                 className="w-full h-full rounded-full object-cover border-4 border-white dark:border-gray-800 shadow-lg"
               />
