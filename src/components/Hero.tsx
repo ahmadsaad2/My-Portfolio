@@ -32,7 +32,7 @@ const Hero: React.FC = () => {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
             <a
-              href="https://drive.google.com/file/d/1FXkxaCuGbtJBY-hSzVUQmhEP4ZobGkZU/view?usp=sharing"
+              href="https://drive.google.com/file/d/1FjDU-GxA14UDTKpvJLWFQFmslLFbvuHr/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-full transition-colors duration-200 flex items-center"
